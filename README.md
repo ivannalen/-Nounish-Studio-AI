@@ -1,4 +1,4 @@
-# -Nounish-Studio-AI
+# -ART 3 HUB
 Plataforma de Aprendizaje Web3 y Asistente Creativo para Artistas Emergentes
 🧠 Problema
 Los artistas emergentes y creativos en Latinoamérica enfrentan tres grandes desafíos:
